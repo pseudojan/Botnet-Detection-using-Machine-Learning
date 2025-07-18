@@ -13,7 +13,7 @@ We use the **CICIDS2017** dataset, specifically the file:
 Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv
 ```
 
-Download it from [Kaggle Dataset]([https://www.unb.ca/cic/datasets/ids-2017.html](https://www.kaggle.com/datasets/ishasingh03/friday-workinghours-afternoon-ddos)).
+Download it from [https://www.kaggle.com/datasets/ishasingh03/friday-workinghours-afternoon-ddos]
 
 ---
 
